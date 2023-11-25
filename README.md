@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Next.js, Laravel, Django, Jetpack Compose or other framework Web and mobile based**
 
-- 📫 How to reach me **wildanfrananda77@gmail.com**
+- 📫 How to reach me **wildan.frananda.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
