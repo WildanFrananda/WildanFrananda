@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildanfrananda&label=Profile%20views&color=0e75b6&style=flat" alt="wildanfrananda" /> </p>
 
-- 🌱 I’m currently in internship program at **Tryoutx.com**
+- 🌱 I’m currently in internship program at **Crowdfund**
 
 - 👨‍💻 All of my detail are available at [https://www.linkedin.com/in/wildanfrananda](https://www.linkedin.com/in/wildanfrananda)
 
