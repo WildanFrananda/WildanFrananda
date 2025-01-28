@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wildan Frananda</h1>
-<h3 align="center">A passionate Fullstack and Android Dev from Indonesia</h3>
+<h3 align="center">A passionate Fullstack and Mobile Dev from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildanfrananda&label=Profile%20views&color=0e75b6&style=flat" alt="wildanfrananda" /> </p>
 
-- 🌱 I’m currently in internship program at **Crowdfund**
+![princess-bubble-gum-388429236](https://user-images.githubusercontent.com/86631177/212934124-15c3ef0a-9a48-4a00-af39-8e0d8a89c4f4.gif)
+
+- 🌱 I’m currently in study at **Sekolah Tinggi Teknologi Terpadu Nurul Fikri**
 
 - 👨‍💻 All of my detail are available at [https://www.linkedin.com/in/wildanfrananda](https://www.linkedin.com/in/wildanfrananda)
 
-- 💬 Ask me about **Next.js, Laravel, Flutter, Jetpack Compose or other framework Web and mobile based**
+- 💬 Ask me about **Next.js, Laravel, NestJS, Flutter, Jetpack Compose or other framework Web and mobile based**
 
 - 📫 How to reach me **wildan.frananda.dev@gmail.com**
 
